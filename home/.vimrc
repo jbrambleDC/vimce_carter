@@ -41,7 +41,7 @@ set incsearch                   " do incremental searching
 set ignorecase                  " case-insensitive search
 set smartcase                   " case-sensitive search if any caps
 set title                       " change the terminal's title
-set guifont=Sauce\ Code\ Powerline        " much nicer font
+set guifont=Meslo\ for\ Powerline        " much nicer font
 set nobackup                    " no more stupid ~ files
 "set autoread                   " reload files when changed on disk, i.e. via `git checkout`
 "set backupcopy=yes                                           " see :help crontab
