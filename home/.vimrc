@@ -77,6 +77,7 @@ autocmd filetype html,xml set listchars-=tab:⮀∎
 set tags=tags,./tags
 
 filetype plugin on
+syntax on
 set omnifunc=syntaxcomplete#Complete
 
 " In many terminal emulators the mouse works just fine, thus enable it.
