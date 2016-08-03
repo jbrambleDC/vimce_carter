@@ -58,8 +58,8 @@ set expandtab
 set scrolloff=3                 " show context above/below cursorline
 set sidescrolloff=3
 set tabstop=4                   " actual tabs occupy 8 characters
-set softtabstop=2               " let's be good ruby citizens
-set shiftwidth=2                " let's be good ruby citizens
+set softtabstop=4               " let's be good ruby citizens
+set shiftwidth=4                " let's be good ruby citizens
 set wildmenu                    " Make the command-line completion better
 set wildmode=full
 "set wildignore=log/**,node_modules/**,target/**,tmp/**,*.rbc
